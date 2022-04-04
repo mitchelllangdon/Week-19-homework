@@ -16,6 +16,9 @@ The following recording shows how the Crytocurrency Wallet operates:
 
 Take note how the number of ETH decreases as a transaction is placed.
 
+The following shows the receipt of the transaction:
+![Image](Images/Receipt.png)
+
 ---
 
 ## How to run this notebook
